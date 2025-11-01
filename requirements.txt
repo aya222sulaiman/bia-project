@@ -1,0 +1,14 @@
+# Project dependencies
+Django~=5.1
+# Production server and static files
+gunicorn~=23.0
+whitenoise~=6.7
+
+# Machine Learning / Data Science
+scikit-learn~=1.5
+numpy~=2.1
+scipy~=1.14
+pandas~=2.2
+joblib~=1.4
+
+# Optional dev/test/visualization packages were moved to requirements-dev.txt
